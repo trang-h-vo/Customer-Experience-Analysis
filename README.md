@@ -1,4 +1,4 @@
-## Predicting customer satisfaction at Olist - a Brazilian e-commerce platform
+## Customer Experience Analysis at Olist - a Brazilian e-commerce platform
 
 ### Problem statement
 
@@ -19,7 +19,7 @@ You can find the complete notebooks in this repository or click the links below 
 - <a href="https://nbviewer.jupyter.org/github/trang-h-vo/Predict-Customer-Satisfaction/blob/main/Olist_Modeling.ipynb"> Olist_Modeling.ipynb </a> : The modeling steps and result interpretation.
 
 ### Credit: 
-This is an extended version of a school group project at the University Paris Dauphine. I'd like to thank my group mate Zoé Hance whom I worked with intensively throughout the project.
+This is an extended version of a group project at the University Paris Dauphine. I'd like to thank my groupmate Zoé Hance whom I worked with intensively throughout the project.
 
 ### Data source: 
 Raw data of Olist and detailed descriptions of the attributes were retrieved from this post on Kaggle: <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce"> Brazilian E-Commerce Public Dataset by Olist </a>.
