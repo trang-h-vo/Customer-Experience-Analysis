@@ -1,10 +1,8 @@
 ## Customer Experience Analysis at Olist - a Brazilian e-commerce platform
 
-### Problem statement
-
 Each business's mission is to satisfy their customers. With an e-commerce platform where customers' purchase is affected by the product's feedback and sellers' ratings, keeping a positive feedback loop is crucial for customer return and sales growth. Therefore, in this project, we're interested in predicting the customer review scores, to better understand the  customers' experience through product quality, sellers' reputation, and shipping process. This would help the company to continue selecting better products to offer on their platform, recommend more reliable sellers, improve the delivery operation, and especially, design the effective customer services and marketing campaigns to different targeted customers.
 
-### Data
+### Datasources
 In this project, we use data shared by Olist - a Brazilian e-commerce platfrom. The data set contains 9 sub-datasets that offer valuable information on 3 main aspects of an e-commerce transaction:
 - `Products`: category, description, size & weight of the product.
 - `Customers and sellers`: tracking id & shipping location.
