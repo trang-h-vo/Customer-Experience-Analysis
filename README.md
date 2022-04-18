@@ -17,6 +17,7 @@ You can find the complete notebooks in this repository or click the links below 
 - <a href="https://nbviewer.jupyter.org/github/trang-h-vo/Predict-Customer-Satisfaction/blob/main/Olist_Data_Prep.ipynb"> Olist_Data_Prep.ipynb </a> : The pre-processing steps to clean the data.
 - <a href="https://nbviewer.jupyter.org/github/trang-h-vo/Predict-Customer-Satisfaction/blob/main/Olist_EDA_Feature_Engineering.ipynb"> Olist_EDA_Feature_Engineering.ipynb </a> : The exploratory analysis and feature engineering. 
 - <a href="https://nbviewer.jupyter.org/github/trang-h-vo/Predict-Customer-Satisfaction/blob/main/Olist_Modeling.ipynb"> Olist_Modeling.ipynb </a> : The modeling steps and result interpretation.
+- A<a href="https://public.tableau.com/views/E-commerceCustomerRatings/OLISTRATINGS?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"> Tableau Dashboard </a> on Olist Customer Ratings.
 
 ### Credit: 
 This is an extended version of a group project at the University Paris Dauphine. I'd like to thank my groupmate Zoé Hance whom I worked with intensively throughout the project.
